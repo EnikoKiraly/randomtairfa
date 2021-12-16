@@ -236,11 +236,11 @@ sup {
 }
 
 a {
-  color: #1abc9c0;
+  color: #000000;
   text-decoration: underline;
 }
 a:hover {
-  color: #15967d;
+  color: #F05454;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11506,10 +11506,14 @@ html {
   background-color: #1a252f;
 }
 
-
+/*Mój kod zaczyna sie tu */
 .img-pump{
-  
+
 }
 .img-pump:hover {
   transform: scale(1.4);
+}
+
+.modal-icon{
+  margin: 3%;
 }
